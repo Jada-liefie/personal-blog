@@ -1,9 +1,4 @@
-# personal-blog
-
-		 </head>
-		 <body>
-		 <h2> MY OWN PERSONAL BLOG ABOUT MYSELF </h2> 
-		 <p> 
+# personal-blog-
 		  
 		 
 		 
