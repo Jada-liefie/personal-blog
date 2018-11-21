@@ -2,6 +2,13 @@
 		  
 		 
 		 
+         <head> pictures</head>
+		 <title> Pictures</title>
+		 <body>
+		 
+<img src='https://scontent.fcpt3-1.fna.fbcdn.net/v/t1.0-9/46173974_259473244763719_4198665788397191168_n.jpg?_nc_cat=109&_nc_ht=scontent.fcpt3-1.fna&oh=ca8b042c56c8358b06ce26702e75246b&oe=5C79A3ED'>
+<img src='https://scontent.fcpt3-1.fna.fbcdn.net/v/t1.0-9/30412344_162262707818107_4428486189871267840_n.jpg?_nc_cat=110&_nc_ht=scontent.fcpt3-1.fna&oh=b5abe2fff6ec815844936233f11d867e&oe=5C6C9460'>
+
 My name is Jada Smith ,I currently attend Westivlle High School, I am a Jehovah Witness ,I have an older brother and I love working with computers 		 
 
 I attended Triomf Primary School from grade R -grade 7 and I had the best years of my life at Triomf Primary School. I had amazing friends that I will never forget and they will always have a place in my heart. Through my years at Triomf Primary School my best year was grade 7. That was my favorite because I went on my Grade 7 camp which was amazing .
