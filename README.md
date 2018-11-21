@@ -1,13 +1,13 @@
 # personal-blog
-<title>my own personal blog</title> 
+
 		 </head>
 		 <body>
 		 <h2> MY OWN PERSONAL BLOG ABOUT MYSELF </h2> 
 		 <p> 
 		  
-		  My name is Jada Smith. I currently attend Westville High School, I am 14 years, I have an older brother, I am a Jehovah Witness and I love working with computers.
-		  </p> 
-		  <p> 
+		 
+		 
+My name is Jada Smith ,I currently attend Westivlle High School, I am a Jehovah Witness ,I have an older brother and I love working with computers 		 
 
 I attended Triomf Primary School from grade R -grade 7 and I had the best years of my life at Triomf Primary School. I had amazing friends that I will never forget and they will always have a place in my heart. Through my years at Triomf Primary School my best year was grade 7. That was my favorite because I went on my Grade 7 camp which was amazing .
 
