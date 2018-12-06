@@ -37,8 +37,7 @@ I went to Vodacom and created my own website and I instantly fell inlove with cr
 </p>
 <p>
 I created my first website and ever since then I  have been creating websites for myself ,will be uploading some soon if I want to share them, anyway hope you enjoyed my blog about my life ,will be doing more .TILL NEXT TIME HUGS AND LOVE BYES !!
-		 
-<img src='https://scontent.fcpt3-1.fna.fbcdn.net/v/t1.0-9/46173974_259473244763719_4198665788397191168_n.jpg?_nc_cat=109&_nc_ht=scontent.fcpt3-1.fna&oh=ca8b042c56c8358b06ce26702e75246b&oe=5C79A3ED'>
+	
 
  
   
